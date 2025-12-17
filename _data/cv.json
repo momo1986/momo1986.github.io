@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jun Yan",
+    "email": "yanjun@ieee.org",
     "phone": "",
     "website": "https://momo1986.github.io",
     "summary": "Currently employed at Shanghai Ocean University and graduate from Tongji University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Shanghai",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
@@ -36,26 +36,35 @@
       "institution": "Shanghai Ocean University",
       "area": "Scholar in Trustworthy AI",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025.12",
+      "endDate": "Until now",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Tongji University",
+      "area": "PhD in AI",
+      "studyType": "",
+      "startDate": "2020.9",
+      "endDate": "2025.4",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "CDHK at Tongji University",
+      "area": "M.S. in EE",
+      "studyType": "",
+      "startDate": "2009.9",
+      "endDate": "2012.6",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "area": "B.S. in EE",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2005.9",
+      "endDate": "2009.6",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +75,80 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Certified Robustness in Automated Driving Perception: A Review",
+      "publisher": "Automotive Innovation",
+      "releaseDate": "2025-09-18",
+      "website": "https://link.springer.com/article/10.1007/s42154-024-00347-3",
+      "summary": "This paper is a systematic review on certified robustness."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Exploring Causal Information Bottleneck for Adversarial Defense",
+      "publisher": "IEEE Transactions on Information Forensics and Security",
+      "releaseDate": "2025-09-17",
+      "website": "https://ieeexplore.ieee.org/abstract/document/11168967/",
+      "summary": "This paper addresses the significant problem in IB by incorporating causal inference into the IB-based defense framework."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "MV-BMR: A Real-time Motion and Vision Sensing Integration based Agile Badminton Robot",
+      "publisher": "Information Fusion",
+      "releaseDate": "2025-05-21",
+      "website": "https://www.sciencedirect.com/science/article/pii/S1566253525004105",
+      "summary": "An agaile badminton robot. A very interesting work."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Adversarial Examples in Environment Perception for Automated Driving",
+      "publisher": "Springer Book Review",
+      "releaseDate": "2025-04-11",
+      "website": "https://arxiv.org/pdf/2504.08414?",
+      "summary": "My personal summary on my doctoral work."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Talk on secure and safe embodied AI systems",
+      "event": "GDPS-2025",
+      "date": "2025-12-12",
+      "location": "Zhangjiang, Shangha, China",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Adversarial examples: theory, methods, and benchmarks",
+      "event": "Seminars of Cybersecurity, Jinan University, Guangzhou",
+      "date": "2025-12-03",
+      "location": "Online",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
+      "name": "Tutorials of optimization on deep learning",
+      "event": "Seminars of Math for AI and AI for Math (Hosted by Prof. Xiaoyang Chen)",
+      "date": "2025-10-30",
       "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
+      "course": "Introduction to AI",
+      "institution": "Information College, Shanghai Ocean University",
+      "date": "2026",
       "role": "Undergraduate course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Computer Architectures",
+      "institution": "Information College, Shanghai Ocean University",
+      "date": "2026",
+      "role": "Undergraduate course",
       "description": ""
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "",
+      "category": "",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "br/><img src='/images/500x300.png'>"
     }
   ]
 }
