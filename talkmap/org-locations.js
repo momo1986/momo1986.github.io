@@ -10,13 +10,13 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Tutorial 1 on Optimization for Deep Learning<br />Seminars hosted by Prof. Xiaoyang Chen on AI for Math and Math for AI; Online",
+    43.5904719,
+    3.8595132
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Talk on Safe and Secure Embodied Systems<br />GDPS-2025; Zhangjiang, Shanghai",
+    31.2073473,
+    121.6101825
   ]
 ];
