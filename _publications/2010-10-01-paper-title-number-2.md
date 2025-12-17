@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'A systematic review on certified robustness'
-date: 2010-10-01
+date: 2025-09-18
 venue: 'Automotive Innovation'
 slidesurl: 'https://link.springer.com/article/10.1007/s42154-024-00347-3'
 paperurl: 'https://link.springer.com/article/10.1007/s42154-024-00347-3'
