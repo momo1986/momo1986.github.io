@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-02-09-paper-title-number-6
 excerpt: 'Geodesic Adversarial Training.'
-date: 2025-05-21
+date: 2024-02-09
 venue: 'IEEE Transactions on Artificial Intelligence'
 slidesurl: 'https://ieeexplore.ieee.org/abstract/document/10431598'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10431598'
