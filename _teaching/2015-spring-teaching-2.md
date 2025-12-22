@@ -8,4 +8,4 @@ date: 2026-01-01
 location: "City, Country"
 ---
 
-It is a course for statistical learning, deep learning and reinforcement learning
+It is a course for statistical learning, deep learning, and reinforcement learning
