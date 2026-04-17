@@ -1,5 +1,5 @@
 ---
-title: "AMRM-Pure: Semantic-Preserving Adversarial Purification"
+title: "DTP-Attack: A decision-based black-box adversarial attack on trajectory prediction"
 collection: publications
 category: conferences
 permalink: /publication/2026-06-01-paper-title-number-10
